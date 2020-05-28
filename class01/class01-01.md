@@ -12,22 +12,13 @@ anaconda的下载地址:https://www.anaconda.com
 
 ## 03-TensorFlow， Numpy， matplotlib
 ### a. TensorFlow安装
-#### 首先，更新conda
-```console
-conda update conda
-```
-#### 添加 anaconda channel
-```console
-conda config --add channels anaconda
-```
-#### 安装TensorFlow
 如果你的电脑上没有Nvidia的显卡，就安装CPU版本的TensorFlow，命令如下：
 ```console
-conda install tensorflow
+conda install -c anaconda tensorflow
 ```
 如果你的电脑上有Nvidia的显卡，可以安装GPU版本的TensorFlow，命令如下：
 ```console
-conda install tensorflow-gpu
+conda install -c anaconda tensorflow-gpu
 ```
 ### b. Numpy安装
 Numpy一般在安装anaconda的时候就安装好了，如果系统没有安装，可以通过如下命令来安装Numpy:
