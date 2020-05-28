@@ -29,5 +29,15 @@ conda install tensorflow
 ```console
 conda install tensorflow-gpu
 ```
+### b. Numpy安装
+Numpy一般在安装anaconda的时候就安装好了，如果系统没有安装，可以通过如下命令来安装Numpy:
+```console
+conda install numpy
+```
+### c. matplotlib安装
+matplotlib一般在安装anaconda的时候就安装好了，如果系统没有安装，可以通过如下命令来安装matplotlib:
+```console
+conda install matplotlib
+```
 ## 04-参考
 Anaconda介绍、安装及使用教程: https://zhuanlan.zhihu.com/p/32925500
