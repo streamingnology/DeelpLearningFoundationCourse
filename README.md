@@ -9,5 +9,13 @@ This is a deep learning foundation course.
 介绍使用的软件环境及其安装方式
 ## Class02
 深度学习和神经网络介绍
+
+what is deeplearning and neural network
 ## Class03
 使用Keras构建一个最简单的神经网络
+
+a simple neural network
+## Class04
+损失函数与优化器
+
+loss function and optimizer
