@@ -38,4 +38,4 @@ How to Develop a CNN for MNIST Handwritten Digit Classification? What is overfit
 ## Class06
 1. 什么是卷积核？什么是图片的卷积运算？什么是最大池化?
 what is convolution kernel? what is convolution image processing? what is max-pooling?
-2. 卷积神经网络 convolutional neural network <font color='red'>coming soon...</font>
+2. 使用卷积神经网络分类MNIST图片库 how to develop a convolutional neural network classifier using Keras library？
