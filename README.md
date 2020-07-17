@@ -8,6 +8,8 @@ This is a deep learning foundation for engineers, I am using
 [Keras]
 (https://keras.io)
 
+## 这个是第一版的视频PPT，第二版的视频链接以及PPT在2nd目录下。
+------------------------------------------------------
 ## 视频链接:
 [YouTube]
 (https://www.youtube.com/playlist?list=PLIobOLzK3NKhvLqsQE4YebFjTqSfcBYbY)
